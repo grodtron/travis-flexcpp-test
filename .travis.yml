@@ -6,4 +6,4 @@ addons:
       - bisonc++
 
 script:
-  - bisonc++ --version
+  - which bisonc++
