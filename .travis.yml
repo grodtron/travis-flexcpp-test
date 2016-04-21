@@ -3,7 +3,7 @@ language: cpp
 addons:
   apt:
     packages:
-      - bisonc++
+      - flexc++
 
 script:
-  - which bisonc++
+  - which flexc++
