@@ -1,0 +1,9 @@
+language: cpp
+
+addons:
+  apt:
+    packages:
+      - bisonc++
+
+script:
+  - bisonc++ --version
